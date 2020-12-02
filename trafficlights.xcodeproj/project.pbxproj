@@ -16,7 +16,7 @@
 		21D8C5F52576A98F00634DCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21D8C5F32576A98F00634DCD /* LaunchScreen.storyboard */; };
 		21D8C6002576A98F00634DCD /* trafficlightsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D8C5FF2576A98F00634DCD /* trafficlightsTests.swift */; };
 		21D8C60B2576A98F00634DCD /* trafficlightsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D8C60A2576A98F00634DCD /* trafficlightsUITests.swift */; };
-		21D8C61C2577A38D00634DCD /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D8C61B2577A38D00634DCD /* Logo.png */; };
+		21D8C6242577A8BC00634DCD /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D8C6232577A8BC00634DCD /* Logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +52,7 @@
 		21D8C6062576A98F00634DCD /* trafficlightsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trafficlightsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21D8C60A2576A98F00634DCD /* trafficlightsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trafficlightsUITests.swift; sourceTree = "<group>"; };
 		21D8C60C2576A98F00634DCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		21D8C61B2577A38D00634DCD /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
+		21D8C6232577A8BC00634DCD /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo.png; path = ../../../../../../../../Downloads/Logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +111,7 @@
 				21D8C5F32576A98F00634DCD /* LaunchScreen.storyboard */,
 				21D8C5F62576A98F00634DCD /* Info.plist */,
 				21D8C5EE2576A98D00634DCD /* trafficlights.xcdatamodeld */,
-				21D8C61B2577A38D00634DCD /* Logo.png */,
+				21D8C6232577A8BC00634DCD /* Logo.png */,
 			);
 			path = trafficlights;
 			sourceTree = "<group>";
@@ -237,7 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21D8C61C2577A38D00634DCD /* Logo.png in Resources */,
+				21D8C6242577A8BC00634DCD /* Logo.png in Resources */,
 				21D8C5F52576A98F00634DCD /* LaunchScreen.storyboard in Resources */,
 				21D8C5F22576A98F00634DCD /* Assets.xcassets in Resources */,
 				21D8C5ED2576A98D00634DCD /* Main.storyboard in Resources */,
